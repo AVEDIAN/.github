@@ -1,5 +1,3 @@
-# AVEDIAN 
-
 ## 🙋‍QUIENES SOMOS
 Somos una compañía que desarrolla soluciones tecnológicas  para el uso de los Grupos Relacionados de Diagnóstico en la gestión clínico económica de instituciones de salud y la implementación de modelos de pago y contratación basados en resultados.
 
