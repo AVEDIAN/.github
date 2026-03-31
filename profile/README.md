@@ -1,14 +1,32 @@
-## 🙋‍QUIENES SOMOS
-Somos una compañía que desarrolla soluciones tecnológicas  para el uso de los Grupos Relacionados de Diagnóstico en la gestión clínico económica de instituciones de salud y la implementación de modelos de pago y contratación basados en resultados.
+## Avedian — We're rewiring how healthcare thinks
+Healthcare runs on incomplete data, misaligned incentives, and decisions made too late. 
+We're fixing that with AI.
 
-## 🌈 QUE HACEMOS 
-Integramos en un todo los datos clínicos y económicos de cada institución. Ayudamos a médicos y directivos de salud a implementar modelos de atención médica basada en valor (Value-Based Healthcare) optimizando la toma de decisiones con información obtenida a partir de metodologías internacionales. Trabajamos en equipo. Compartimos conocimiento. Actuamos con pasión, compromiso y honestidad.
+We built one of only three engines in the world capable of classifying and standardizing 
+an entire healthcare system's case mix — hospitals, outpatient, and population. 
+On top of that, we train AI models that turn raw clinical and financial data into 
+real-time, actionable intelligence.
 
-## 👩‍💻 QUE BUSCAMOS
-Buscamos mejorar los resultados asistenciales en los clientes a partir de información generada con nuestras soluciones tecnológicas. Sabemos que juntos podemos hacer la diferencia y aprovechar oportunidades. De eso se trata. Porque nacimos pensando en el futuro y nuestra filosofía es clara: “más que información, mejores resultados”.
+## What we're shipping
+- Compass Decision Support — A multimodal AI copilot living inside hospitals. Reads structured and unstructured clinical data in real time, predicts patient evolution, and flags risks before they become problems.
+- Hosdatia — AI-driven operational intelligence for hospitals: assisted coding, length-of-stay prediction, automated auditing and benchmarking.
+- Insuria — AI for health insurers: waste detection, dynamic pricing, outcome-based contracting and shared-risk programs.
 
-## 🧙 EXPERIENCIA Y TRAYECTORIA
-Hace más de una década venimos investigando, innovando y desarrollando tecnologías para el procesamiento e integración de datos en salud. Somos una de las tres compañías a nivel mundial con soluciones de agrupación GRD, costos hospitalarios y gestión clínico-económica.
+## Our traction
+100+ healthcare organizations · 70+ hospitals · 11+ health insurers · 5+ LATAM 
+countries · Expanding to US and Europe
 
-## 🌎 PRESENCIA INTERNACIONAL
-A través de partners y socios de negocio tenemos presencia en diversos países a escala global. Nos involucramos en cada proyecto aportando tecnologías de información y soporte experto.
+## Our impact
+AWS-recognized innovation · ISO 9001/27001/42001 certified · HIPAA compliant  · GDPR  · SOC 2 Type 1 
+
+## Our stack
+Python · PyTorch · Scikit-learn · Pandas · NumPy · Apache Spark · MLflow · AWS · 
+FHIR · Medical NLP
+
+
+##  We're hiring
+Data Scientists, ML Engineers, and Backend Engineers. 
+Email: people@avediangrd.com | Follow us on LinkedIn @avediantech
+
+
+More than information — better outcomes.
